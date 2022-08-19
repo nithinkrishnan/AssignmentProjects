@@ -1,0 +1,58 @@
+--------Function showAll--------
+
+Total no. of candidates: 5
+Total no. of courses: 9
+
+List of candidates:
+
+Manasa
+Venkat
+Paul
+Harry
+Mary
+
+List of courses:
+
+Distributed Computing
+Compiler Design
+Software Engineering
+Software Testing
+Software Architecture
+Data Structures
+Cloud Computing
+Data Storage Technologies
+Algorithm Design
+-----------------------------------------------------------------
+
+--------Function displayHireList--------
+
+No. of candidates required to cover most of the courses: 3
+
+Manasa / Data Structures / Compiler Design / Software Engineering
+Venkat / Data Structures / Software Architecture / Cloud Computing / Distributed Computing
+Paul / Algorithm Design / Software Testing/ Data Storage Technologies
+-----------------------------------------------------------------
+
+--------Function displayCandidates--------
+
+No candidate can handle Data Strcutures
+
+-----------------------------------------------------------------
+
+--------Function displayCandidates--------
+
+List of Candidates who can handle Algorithm Design:
+
+Paul
+-----------------------------------------------------------------
+
+--------Function findCourseInstructors--------
+
+Part A: Data Structures
+Part B: Algorithm Design
+
+Course Instructors:
+
+Part A: Manasa,Venkat
+Part B: Paul
+-----------------------------------------------------------------
